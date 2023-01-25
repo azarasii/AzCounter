@@ -1,0 +1,17 @@
+div {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+#countText {
+    font-size: 50px;
+}
+
+button {
+    width: 120px;
+    height: 90px;
+}
